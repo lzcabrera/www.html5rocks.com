@@ -3,13 +3,12 @@
 # This file is distributed under the same license as the HTML5Rocks package.
 # Mike West <mkwst@google.com>
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-01 07:40-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2012-09-08 19:18-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
@@ -49,6 +48,9 @@ msgid ""
 "article chronicles their journey in utilizing the Web Audio API to implement "
 "sound for Fieldrunners."
 msgstr ""
+"Gradient Studios transformo el juego Fieldrunners que ha ganado premios. "
+"Este artículo narra la trayectoria de utilizar la Web Audio API para "
+"implementar el sonido para Fieldrunners."
 
 #: _tutorials.yaml.html:7
 msgid "WebGL Transforms"
@@ -61,7 +63,7 @@ msgstr ""
 
 #: _tutorials.yaml.html:9
 msgid "Creating a Mobile-First Responsive Web Design"
-msgstr ""
+msgstr "Creando un Diseño Web Sensible usando Tecnología-Móbil-Primero"
 
 #: _tutorials.yaml.html:10
 msgid ""
@@ -3599,9 +3601,8 @@ msgid "Tutorial"
 msgstr "Tutoriales"
 
 #: content/tutorials/index.html:22
-#, fuzzy
 msgid "Article"
-msgstr "Últimos artículos"
+msgstr "Artículo"
 
 #: content/tutorials/index.html:23
 msgid "Case Study"
@@ -3609,7 +3610,7 @@ msgstr ""
 
 #: content/tutorials/index.html:24
 msgid "Announcement"
-msgstr ""
+msgstr "Anuncio"
 
 #: content/tutorials/index.html:25
 msgid "Post"
@@ -3627,19 +3628,21 @@ msgstr "Demostraciones"
 
 #: content/tutorials/index.html:29
 msgid "Sample"
-msgstr ""
+msgstr "Ejemplo"
 
 #: content/tutorials/index.html:35
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #: content/tutorials/index.html:59
 msgid "Tags"
-msgstr ""
+msgstr "Etiquetas"
 
 #: content/tutorials/index.html:60
 msgid "Comma separated list of tags: workers,filesystem,file,..."
 msgstr ""
+"Lista de etiquetas separada con comas: trabajadores,sistemadearchivos,"
+"archivo,…"
 
 #: content/tutorials/index.html:86
 msgid "Filtering by tag"
@@ -4408,11 +4411,11 @@ msgstr "¡Ups! No hemos encontrado ningún recurso sobre HTML<sub>5</sub> aquí.
 
 #: templates/500.html:4
 msgid "500 - Server Error"
-msgstr ""
+msgstr "500 - Error del Servidor"
 
 #: templates/500.html:58
 msgid "&#x2639; Something went wrong."
-msgstr ""
+msgstr "&#x2639; Algo anda mal."
 
 #: templates/article_footer.html:5
 msgid ""
@@ -4453,7 +4456,7 @@ msgstr "Feed RSS de HTML5 Rocks"
 
 #: templates/base.html:79
 msgid "Posts &amp; Tutorials"
-msgstr "Publicaciones y tutoriales"
+msgstr "Publicaciones y Tutoriales"
 
 #: templates/base.html:81
 msgid "Slides"
@@ -4547,7 +4550,7 @@ msgstr "Hay disponible una nueva versión de este sitio. ¿Quieres cargarla?"
 
 #: templates/tutorial.html:31
 msgid "Published"
-msgstr "Publicación"
+msgstr "Publicado"
 
 #: templates/tutorial.html:32
 msgid "Updated"
@@ -4559,7 +4562,7 @@ msgstr "Con la tecnología de HTML5"
 
 #: templates/tutorial.html:47
 msgid "Supported browsers:"
-msgstr "Navegadores compatibles"
+msgstr "Navegadores compatibles:"
 
 #: templates/tutorial.html:53 templates/tutorial.html.py:63
 #: templates/tutorial.html:73 templates/tutorial.html.py:83
